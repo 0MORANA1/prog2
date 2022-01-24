@@ -1,0 +1,1 @@
+void pas(int a) ;
